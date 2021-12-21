@@ -55,7 +55,7 @@ align-items: center;
 
     
 }
-.playerStats{
+#playerStats{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -82,7 +82,7 @@ align-items: center;
 
     
 }
-.enemyStats{
+#enemyStats{
     display: flex;
     justify-content: center;
     align-items: center;
